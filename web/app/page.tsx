@@ -54,7 +54,7 @@ export default function Home() {
   return (
     <main>
       <h1>Diabetes Prediction</h1>
-      <p>Trainer</p>
+      <p>By Sammed </p>
       <p>Enter patient information to predict diabetes risk.</p>
       <form onSubmit={handleSubmit}>
         <div className="form-row">
